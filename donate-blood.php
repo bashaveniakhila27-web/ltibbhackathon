@@ -14,8 +14,10 @@ if(isset($_POST['but_logout'])){
 ?>
 <!doctype html>
 <html>
-    <head></head>
-	<title></title>
+    <head>
+		<title></title>
+	</head>
+	
     <body>
             <form method='post' action="">
             <input type="submit" value="Logout" name="but_logout">
